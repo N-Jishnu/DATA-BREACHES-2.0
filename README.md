@@ -88,10 +88,6 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ---
 
-## License
-Specify your license here (e.g., MIT, Apache 2.0, etc.).
-
----
 
 ## Acknowledgements
 - Built with open-source libraries such as PyTorch, scikit-learn, transformers, and networkx.
